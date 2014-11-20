@@ -1,0 +1,19 @@
+products:
+  AM:
+    name: Agua Mineral
+    price: 3.11
+  AC:
+    name: Aceite
+    price: 5.00
+  CA:
+    name: Cafe
+    price: 11.23
+promotions:
+  AM:
+    type: free
+    number: 2
+    discount: 3.11
+  AC:
+    type: discount
+    number: 3
+    discount: 0.50
